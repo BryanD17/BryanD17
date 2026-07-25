@@ -15,7 +15,7 @@ MIPS simulator. Built a multithreaded futures trading engine in Java 21.
 
 ## Portfolio
 
-https://github.com/BryanD17/portfolio
+https://bryanjoseph.vercel.app (source: https://github.com/BryanD17/portfolio)
 
 ## Tech
 
