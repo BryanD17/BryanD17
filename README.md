@@ -11,7 +11,7 @@ MIPS simulator. Built a multithreaded futures trading engine in Java 21.
 | **StayFit** | AI health and fitness app for iOS: on-device form check, offline-first sync, creator payouts | [getstayfitapp.com](https://getstayfitapp.com) |
 | **StayFit Website** | The marketing site that sells the app (Next.js, React, Tailwind) | [getstayfitapp.com](https://getstayfitapp.com) |
 | **WebMARS** | Complete MIPS32 assembler and simulator running entirely in the browser; core-engine lead | [webmarsimulator.com](https://webmarsimulator.com) · [repo](https://github.com/Webmarssimulator/WebMARS) |
-| **Futures Trading Engine** | Event-driven multithreaded trading engine in Java 21 with Monte Carlo risk modeling | private repo |
+| **Futures Trading Engine** | Event-driven multithreaded trading engine in Java 21 with Monte Carlo risk modeling | [architecture write-up](https://github.com/BryanD17/futures-engine-architecture) (engine private) |
 
 ## Portfolio
 
